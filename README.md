@@ -8,7 +8,7 @@
 
 ### 🧭 About This Account
 This GitHub profile is used for development, testing, and deployment work on Windows — mainly for projects within the **Soren Technology** ecosystem.  
-My primary profile, [@Drakeze](https://github.com/Drakeze), contains detailed project showcases, portfolio links, and learning progress.
+My primary profile, [@Drakeze](https://github.com/Drakeze), features detailed project showcases, portfolio links, and a record of my learning progress.
 
 ---
 
@@ -25,8 +25,8 @@ My primary profile, [@Drakeze](https://github.com/Drakeze), contains detailed pr
 
 ### 🌐 Main Links
 - 🌎 [Main GitHub – @Drakeze](https://github.com/Drakeze)  
-- 🧠 [Soren Technology](https://github.com/Soren-Technology)  
-- 🪴 [EarthPlus LLC]() *(coming soon)*
+- 🧠 [Soren Technology](https://github.com/SorenLab)  
+- 🪴 [EarthPlus LLC](https://github.com/EarthPlus-Organization) 
 
 ---
 
