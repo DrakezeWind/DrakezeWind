@@ -1,20 +1,20 @@
 # 👋 Hi there — I'm Anthony (DrakezeWind)
 
 💻 Secondary developer environment for Windows  
-🔗 Connected to the **Soren Technology** organization (under **EarthPlus LLC**)  
+🔗 Connected to the **Søren Technology** organization (under **Earth Plus LLC**)  
 🌍 Based in California  
 
 ---
 
-### 🧭 About This Account
-This GitHub profile is used for development, testing, and deployment work on Windows — mainly for projects within the **Soren Technology** ecosystem.  
-My primary profile, [@Drakeze](https://github.com/Drakeze), features detailed project showcases, portfolio links, and a record of my learning progress.
+### 💬 About This Account
+This profile is used for **development, testing, and deployment** on Windows — mainly for projects within the **Søren Technology** ecosystem.  
+My main profile, [@Drakeze](https://github.com/Drakeze), showcases production-ready projects, portfolio links, and certification progress.
 
 ---
 
 ### 🧱 Active Projects
-- [**Church Website**](https://github.com/DrakezeWind/Church-Web) – Next.js + Tailwind project built for a local organization.  
-- [**Study**](https://github.com/DrakezeWind/Study) – A practice repository for exploring new tools and stack setups.  
+- [**Church Website**](https://github.com/DrakezeWind/Church-Web) — Next.js + Tailwind project built for a local organization.  
+- [**Study Vault**](https://github.com/DrakezeWind/Study) — Practice repository for exploring new tools and stack setups.  
 
 ---
 
@@ -23,10 +23,17 @@ My primary profile, [@Drakeze](https://github.com/Drakeze), features detailed pr
 
 ---
 
+### 🎓 Current Certifications
+![IBM Full-Stack](https://img.shields.io/badge/IBM%20Full--Stack-blue?style=flat-square)
+![API First](https://img.shields.io/badge/API%20First-green?style=flat-square)
+![Coursera](https://img.shields.io/badge/Coursera-Learner-blue?style=flat-square)
+
+---
+
 ### 🌐 Main Links
 - 🌎 [Main GitHub – @Drakeze](https://github.com/Drakeze)  
-- 🧠 [Soren Technology](https://github.com/SorenLab)  
-- 🪴 [EarthPlus LLC](https://github.com/EarthPlus-Organization) 
+- 🧠 [Søren Technology](https://github.com/SorenLab)  
+- 🪴 [Earth Plus LLC](https://github.com/EarthPlus-Organization)
 
 ---
 
