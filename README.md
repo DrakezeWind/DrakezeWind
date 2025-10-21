@@ -14,7 +14,7 @@ My main profile, [@Drakeze](https://github.com/Drakeze), showcases production-re
 
 ### 🧱 Active Projects
 - [**Church Website**](https://github.com/DrakezeWind/Church-Web) — Next.js + Tailwind project built for a local organization.  
-- [**Study Vault**](https://github.com/DrakezeWind/Study) — Practice repository for exploring new tools and stack setups.  
+- [**GrowthVault**](https://github.com/DrakezeWind/GrowthVault) — Practice repository for exploring new tools and stack setups.  
 
 ---
 
