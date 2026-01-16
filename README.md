@@ -74,6 +74,6 @@ Certifications support my learning, but most progress here is driven by hands-on
 ---
 
 
-> This account represents the *process* behind the work — not just the outcome.
+> This account represents the *process* behind the work,  not just the outcome.
 
 
