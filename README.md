@@ -1,4 +1,4 @@
-# 👋 Hi — I’m Anthony (DrakezeWind)
+# 👋 Hi,  I’m Anthony (DrakezeWind)
 
 This is my **secondary GitHub account**, primarily used as a **Windows-based development, testing, and learning environment**.
 
