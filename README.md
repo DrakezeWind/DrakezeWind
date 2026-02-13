@@ -7,7 +7,7 @@ If you’re looking for my **portfolio, polished projects, and primary work**, p
 
 ---
 
-## 🎯 Purpose of This Account
+##  Purpose of This Account
 
 This profile exists to support **active experimentation and growth**.
 
@@ -21,7 +21,7 @@ You will likely see **more raw activity here** than on my main account, and that
 
 ---
 
-## 🧠 How This Account Is Used
+##  How This Account Is Used
 
 This account serves as my:
 - Windows development environment  
@@ -33,7 +33,7 @@ Projects here may evolve, change direction, or be archived as learning progresse
 
 ---
 
-## 🧱 Active Learning & Exploration Projects
+##  Active Learning & Exploration Projects
 
 - **Obsidian Vault**  
   My primary notes system for development, planning, learning, and content creation.
@@ -51,7 +51,7 @@ This list will naturally change over time as projects are completed or consolida
 
 ---
 
-## 🔁 Relationship to My Main Account
+##  Relationship to My Main Account
 
 - This account focuses on **learning and iteration**
 - My main account focuses on **presentation and finished work**
