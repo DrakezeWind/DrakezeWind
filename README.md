@@ -17,7 +17,7 @@ It is intentionally used for:
 - Building and refining systems incrementally  
 - High-frequency commits and iteration  
 
-You will likely see **more raw activity here** than on my main account—and that is by design.
+You will likely see **more raw activity here** than on my main account, and that is by design.
 
 ---
 
